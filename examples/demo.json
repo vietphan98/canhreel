@@ -1,0 +1,9 @@
+{
+  "title": "Demo canhreel",
+  "width": 640, "height": 360, "fps": 25, "wpm": 160,
+  "scenes": [
+    {"text": "Xin chào, đây là video dựng từ storyboard.", "color": "navy"},
+    {"text": "Thời lượng mỗi cảnh được tự tính theo độ dài lời đọc.", "color": "darkgreen"},
+    {"text": "Cảnh cuối có thời lượng cố định.", "color": "maroon", "duration": 2}
+  ]
+}
